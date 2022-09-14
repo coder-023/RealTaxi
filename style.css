@@ -4,6 +4,10 @@ body{
 .icon{
     font-size: 2rem;
 }
+#giftaxi{
+    width: 25%;
+    
+}
 .text{
     font-size:2rem;
     font-family: 'Comic Neue', cursive;
