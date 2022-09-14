@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+}
+.icon{
+    font-size: 2rem;
+}
+.text{
+    font-size:2rem;
+    font-family: 'Comic Neue', cursive;
+    padding: 23px 34px ;
+
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
